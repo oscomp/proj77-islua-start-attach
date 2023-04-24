@@ -18,15 +18,15 @@
 - 如学生参加了多个项目，参赛学生选择一个自己参加的项目参与评奖
 - 请遵循“2021全国大学生操作系统比赛”的章程和技术方案要求
 
-### 难度：
-
-中
-
-### 导师: 
+### 项目导师
 
 https://gitee.com/open_euler/dashboard/members/gaohuatao
 
 联系方式：[gaohuatao@huawei.com](mailto:gaohuatao@huawei.com)
+
+### 难度
+
+中
 
 ### License
 
